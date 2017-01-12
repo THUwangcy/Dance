@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7AE5EB05-4903-E957-3446-842C76213373}") = "Dance", "Assembly-CSharp-firstpass.csproj", "{8A85BB0D-5DF0-0322-99C0-BA0AF3E48083}"
+EndProject
+Project("{7AE5EB05-4903-E957-3446-842C76213373}") = "Dance", "Assembly-CSharp.csproj", "{6D4ECD64-0071-E7D0-D489-71DBFC1BEFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A85BB0D-5DF0-0322-99C0-BA0AF3E48083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A85BB0D-5DF0-0322-99C0-BA0AF3E48083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A85BB0D-5DF0-0322-99C0-BA0AF3E48083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A85BB0D-5DF0-0322-99C0-BA0AF3E48083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4ECD64-0071-E7D0-D489-71DBFC1BEFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4ECD64-0071-E7D0-D489-71DBFC1BEFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4ECD64-0071-E7D0-D489-71DBFC1BEFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4ECD64-0071-E7D0-D489-71DBFC1BEFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
